@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Predicting-Purchase-Behavior
-=======
 # Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights.
 * The code is the official implementation of the work "Predictive modeling of consumer purchase behavior on social media: integrating theory of planned behavior and machine learning for actionable insights."
 * Authors of the work: Md Shawmoon Azad, Shadman Sakib Khan, Rezwan Hossain, Raiyan Rahman.
